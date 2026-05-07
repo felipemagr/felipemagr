@@ -17,8 +17,6 @@ et propter vitam vivendi perdere causas.
   <img src="raw/boc.gif" alt="" width="40%">
 </div>
 
-<hr>
-
 <div align="center">
   <img src="raw/ot1.gif" alt="" width="40%">
   <img src="raw/ot2.gif" alt="" width="40%">
